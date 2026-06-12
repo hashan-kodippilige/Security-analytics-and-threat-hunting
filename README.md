@@ -166,7 +166,7 @@ Presentations/
 ## Author
 
 Hashan Kodippilige
-
-M.S. Cybersecurity
+Master of Science in Cybersecurity
+Minnesota State University Moorhead
 
 Splunk Dashboard Developer | Network Security | SIEM | Digital Forensics
