@@ -1,4 +1,4 @@
-# 📊 Security Analytics & Threat Hunting
+# Security Analytics & Threat Hunting
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -8,42 +8,42 @@
   <img src="https://img.shields.io/badge/NetworkMiner-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-> 🔬 Graduate-level cybersecurity analytics portfolio covering network traffic analysis, threat hunting, digital forensics, incident response, system log analysis, and **machine learning-based intrusion detection** — combining hands-on security tooling with data science for advanced threat detection.
+> Graduate-level cybersecurity analytics portfolio covering network traffic analysis, threat hunting, digital forensics, incident response, system log analysis, and **machine learning-based intrusion detection** — combining hands-on security tooling with data science for advanced threat detection.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository documents hands-on security analytics work completed during **graduate-level Cybersecurity Analytics coursework** at Minnesota State University Moorhead. It bridges traditional network security analysis with modern **machine learning approaches** to intrusion detection — making it directly relevant to both industry SOC roles and academic research.
 
 **Highlights:**
-- 🤖 KNN-based ML model for network intrusion detection using the KDD dataset
-- 🏦 Full incident response case study for a simulated banking breach
-- 🦠 Ransomware threat intelligence analysis (Medusa ransomware / SimonMed Imaging)
-- 📡 9 progressive labs from basic packet analysis to ML model deployment
+- KNN-based ML model for network intrusion detection using the KDD dataset
+- Full incident response case study for a simulated banking breach
+- Ransomware threat intelligence analysis (Medusa ransomware / SimonMed Imaging)
+- 9 progressive labs from basic packet analysis to ML model deployment
 
 ---
 
-## 📋 Contents at a Glance
+## Contents at a Glance
 
 | # | Type | Title | Key Tools |
 |---|------|-------|-----------|
-| Lab 1 | 🔬 Lab | Packet Analysis with Wireshark | Wireshark |
-| Lab 2 | 🔬 Lab | Live Traffic Capture & Analysis | Wireshark, tcpdump |
-| Lab 3 | 🔬 Lab | Network Investigation via Packet Analysis | Wireshark |
-| Lab 4 | 🔬 Lab | Network Forensics using NetworkMiner | NetworkMiner |
-| Lab 5 | 🔬 Lab | Cybersecurity Incident Investigation | Wireshark, ProcMon |
-| Lab 6 | 🔬 Lab | Traffic Analysis using tcpdump | tcpdump |
-| Lab 7 | 🔬 Lab | System Logging & Syslog Analysis | Syslog, rsyslog |
-| Lab 8 | 🔬 Lab | Machine Learning Environment Setup | Python, Scikit-Learn |
-| Lab 9 | 🔬 Lab | ML Model for Cyber Attack Detection | KNN, Python |
-| Project 1 | 🚀 Project | Xfibility Bank Incident Response | Wireshark, MITRE ATT&CK |
-| Project 2 | 🚀 Project | KNN Intrusion Detection System | Python, Scikit-Learn, KDD |
-| Project 3 | 🚀 Project | Medusa Ransomware Threat Analysis | MITRE ATT&CK, CTI |
+| Lab 1 | Lab | Packet Analysis with Wireshark | Wireshark |
+| Lab 2 | Lab | Live Traffic Capture & Analysis | Wireshark, tcpdump |
+| Lab 3 | Lab | Network Investigation via Packet Analysis | Wireshark |
+| Lab 4 | Lab | Network Forensics using NetworkMiner | NetworkMiner |
+| Lab 5 | Lab | Cybersecurity Incident Investigation | Wireshark, ProcMon |
+| Lab 6 | Lab | Traffic Analysis using tcpdump | tcpdump |
+| Lab 7 | Lab | System Logging & Syslog Analysis | Syslog, rsyslog |
+| Lab 8 | Lab | Machine Learning Environment Setup | Python, Scikit-Learn |
+| Lab 9 | Lab | ML Model for Cyber Attack Detection | KNN, Python |
+| Project 1 | Project | Xfibility Bank Incident Response | Wireshark, MITRE ATT&CK |
+| Project 2 | Project | KNN Intrusion Detection System | Python, Scikit-Learn, KDD |
+| Project 3 | Project | Medusa Ransomware Threat Analysis | MITRE ATT&CK, CTI |
 
 ---
 
-## 🔬 Labs
+## Labs
 
 ### Lab 1 — Packet Analysis with Wireshark
 Introduction to packet capture and protocol analysis using Wireshark filters, stream following, and traffic dissection.
@@ -74,11 +74,11 @@ Training and evaluating a **K-Nearest Neighbor (KNN)** classifier on the KDD Cup
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ---
 
-### 🏦 Project 1 — Xfibility Bank Incident Response & Mitigation Plan
+### Project 1 — Xfibility Bank Incident Response & Mitigation Plan
 
 **Scenario:** Xfibility Bank has suffered a suspected data breach. Conduct a full incident investigation and produce an executive-level mitigation plan.
 
@@ -96,7 +96,7 @@ Training and evaluating a **K-Nearest Neighbor (KNN)** classifier on the KDD Cup
 
 ---
 
-### 🤖 Project 2 — KNN Classifier for Network Intrusion Detection
+### Project 2 — KNN Classifier for Network Intrusion Detection
 
 **Objective:** Build and evaluate a Machine Learning model to classify network traffic as normal or attack using the KDD Cup 1999 dataset.
 
@@ -125,7 +125,7 @@ Output       →  Trained classifier with performance analysis
 
 ---
 
-### 🦠 Project 3 — Medusa Ransomware Threat Intelligence Analysis
+### Project 3 — Medusa Ransomware Threat Intelligence Analysis
 
 **Case:** Analysis of the **Medusa ransomware** attack on **SimonMed Imaging** — a real-world healthcare sector breach.
 
@@ -153,10 +153,10 @@ Output       →  Trained classifier with performance analysis
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ```
-📦 Security-analytics-and-threat-hunting
+Security-analytics-and-threat-hunting
 ├── 📄 README.md
 ├── 📋 Cybersecurity Analytics - Lab 1 - Hashan Kodippilige.pdf
 ├── 📋 Cybersecurity Analytics - Lab 2 - Hashan Kodippilige.pdf
@@ -176,7 +176,7 @@ Output       →  Trained classifier with performance analysis
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Category | Tools |
 |----------|-------|
@@ -189,13 +189,13 @@ Output       →  Trained classifier with performance analysis
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 `Network Traffic Analysis` `Wireshark` `NetworkMiner` `tcpdump` `Syslog` `Threat Hunting` `Incident Response` `Machine Learning` `KNN Classifier` `Intrusion Detection` `Python` `Scikit-Learn` `MITRE ATT&CK` `Ransomware Analysis` `Threat Intelligence` `Healthcare Security` `Security Analytics` `Cyber Kill Chain`
 
 ---
 
-## 💡 Real-World Relevance
+## Real-World Relevance
 
 This portfolio is directly applicable to:
 - **SOC Analyst** roles — threat hunting, traffic analysis, log correlation, incident response
@@ -205,13 +205,13 @@ This portfolio is directly applicable to:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 All investigations were conducted in authorized educational lab environments. The Medusa/SimonMed analysis is based on publicly available threat intelligence for academic research purposes only.
 
 ---
 
-## 👤 Author
+## Author
 
 **Hashan Kodippilige**  
 M.S. Cybersecurity — Minnesota State University Moorhead  
